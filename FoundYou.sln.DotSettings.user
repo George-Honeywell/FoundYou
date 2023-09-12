@@ -1,0 +1,6 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/CodeInspection/CppClangTidy/EnableClangTidySupport/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=39AA5D30_002DB1E7_002D3DE6_002D996C_002D4C8A72E07850_002Fdl_003ASource_003AC_0021_003FProgram_0020Files_003FEpic_0020Games_003FUE_005F5_002E2_003FEngine_003FSource_002Fd_003ARuntime_002Fd_003AEngine_002Fd_003APrivate_002Ff_003AUnrealEngine_002Ecpp/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:Int64 x:Key="/Default/CodeStyle/CodeFormatting/CppFormatting/INDENT_SIZE/@EntryValue">2</s:Int64>
+	<s:Int64 x:Key="/Default/CodeStyle/CodeFormatting/CppFormatting/TAB_WIDTH/@EntryValue">2</s:Int64>
+	<s:Boolean x:Key="/Default/Environment/SettingsMigration/IsMigratorApplied/=JetBrains_002EReSharper_002EFeature_002EServices_002ECpp_002ECodeStyle_002ESettingsUpgrade_002EFunctionReturnStyleSettingsUpgrader/@EntryIndexedValue">True</s:Boolean></wpf:ResourceDictionary>
